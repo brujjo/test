@@ -1,0 +1,15 @@
+.logo-image {
+    width: 110px; /* Ajusta el ancho de la imagen */
+    height: 110px; /* Ajusta la altura de la imagen */
+    object-fit: cover; /* Asegura que la imagen cubra el espacio disponible sin distorsionarse */
+  }
+  header {
+    background-color: #000000; /* Cambia el color de fondo del encabezado */
+  }
+  nav{
+    color: #ffffff;
+    font-size: 20px;
+  }
+  span{
+    color: #ffffff;
+  }
